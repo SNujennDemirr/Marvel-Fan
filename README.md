@@ -23,8 +23,8 @@ Marvel Fan is my first project, created during my school years when I was just b
 
 Here are some screenshots from the Marvel Fan project
 
-<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/1.marvell.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
+<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/ss.marvell.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
 
-<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/2.jpeg" alt="Card Image" style="width: 70%; margin-bottom: 50px;"/>
+<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/ssmarvel.jpeg" alt="Card Image" style="width: 70%; margin-bottom: 50px;"/>
 
-<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/3.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
+<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/card.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
