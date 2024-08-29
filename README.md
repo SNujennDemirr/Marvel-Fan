@@ -26,4 +26,9 @@ The project is still open for development. If you would like to contribute, feel
 
 Media
 
-<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/ss.marvell.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/> <img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/card.jpeg" alt="Card Image" style="width: 70%; margin-bottom: 50px;"/> <img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/ssmarvel.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/> Videoyu İzleyin
+## Video
+
+
+
+![Marvel Fan Video](galeri/kayıt.mp4)
+
