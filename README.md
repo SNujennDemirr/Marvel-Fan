@@ -2,10 +2,6 @@
 
 Marvel Fan is my first project, created during my school years when I was just beginning to learn programming. I built it to explore what I could achieve with basic HTML, CSS, and a bit of JavaScript. Don’t expect anything advanced.
 
-![Marvel Image 1](https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/marvel.jpeg)
-![Marvel Image 2](https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/marvel1.jpg)
-![Marvel Image 3](https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/marvell.jpeg)
-
 ## Features
 
 - A list of Marvel movies
@@ -28,6 +24,9 @@ Marvel Fan is my first project, created during my school years when I was just b
 
 The project is still open for development. If you would like to contribute, feel free to send a pull request!
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/ss.marvell.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
+
+<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/card.jpeg" alt="Card Image" style="width: 70%; margin-bottom: 50px;"/>
+
+<img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/ssmarvel.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
