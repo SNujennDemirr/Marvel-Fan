@@ -53,15 +53,6 @@ Here are some screenshots from the Marvel Fan project:
 <img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/2card.jpeg" alt="Card Image" style="width: 70%; margin-bottom: 50px;"/> 
 <img src="https://github.com/SNujennDemirr/Marvel-Fan/raw/main/Marvel/img/3ss.jpeg" alt="Screenshot Marvel" style="width: 70%; margin-bottom: 50px;"/>
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-If you want to contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch and make your changes.
-3. Submit a pull request with the changes.
 
 ## Roadmap
 
