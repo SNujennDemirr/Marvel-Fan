@@ -2,18 +2,6 @@
 
 Marvel Fan is the first project I created during my school years when I was just starting to learn programming. The main goal of this project was to explore what could be done with basic web technologies like HTML, CSS, and JavaScript. Marvel Fan serves as an introduction to web development and reflects my admiration for the Marvel Universe.
 
-## About the Project
-
-Marvel Fan was created to provide a simple yet impressive platform for Marvel fans. The project aims to offer information about Marvel movies and enhance the user experience with short video clips.
-
-### Why Did I Make This Project?
-
-At the beginning of my web development learning journey, I wanted to apply the concepts I was learning in a practical project. The Marvel Fan project provided me with the following:
-
-- **Understanding HTML structure:** By organizing content.
-- **Experimenting with CSS:** For styling and layout.
-- **Applying basic JavaScript functions:** By adding interactivity.
-- **Learning responsive design:** Ensuring the project works smoothly on different devices.
 
 ## Features
 
